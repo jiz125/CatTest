@@ -1,0 +1,26 @@
+body {
+    font-family:Oswald;
+    margin: 250px;
+    background-color: #32728d;
+    text-align: center 
+}
+h1 {
+    margin: 0;
+    color: #f48e44;
+    font-size: 80px;
+    text-align: center 
+}
+
+p {
+    /* margin: 200px; */
+    color: #f48e44;
+    font-size: 16px;
+    text-align: center;
+}
+
+
+
+
+
+
+
